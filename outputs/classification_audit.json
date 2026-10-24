@@ -1,0 +1,50 @@
+{
+  "sample_size": 80,
+  "reviewed": 80,
+  "scored": 78,
+  "reviewers": [
+    "Codex assistant (not independent human)"
+  ],
+  "accuracy": 0.6282051282051282,
+  "per_class": {
+    "content": {
+      "actual": 44,
+      "predicted": 38,
+      "precision": 0.9210526315789473,
+      "recall": 0.7954545454545454
+    },
+    "login": {
+      "actual": 8,
+      "predicted": 6,
+      "precision": 0.8333333333333334,
+      "recall": 0.625
+    },
+    "captcha": {
+      "actual": 6,
+      "predicted": 4,
+      "precision": 0.25,
+      "recall": 0.16666666666666666
+    },
+    "cookie": {
+      "actual": 3,
+      "predicted": 11,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    "for_sale": {
+      "actual": 0,
+      "predicted": 6,
+      "precision": 0.0,
+      "recall": null
+    },
+    "error": {
+      "actual": 17,
+      "predicted": 13,
+      "precision": 0.6153846153846154,
+      "recall": 0.47058823529411764
+    }
+  },
+  "note": "Random audit sample; manual labels describe capture outcomes. Uncertain labels excluded.",
+  "manual_labels_sha256": "4eb39e87e8730769c3b1efb73409f62edcc3cf46cecb45d82f2d9ebdd6235a15",
+  "predictions_sha256": "71f59e279e3dc06c682689e30b03d18c9bed83d9e194e70e9656bc2224dd4ac2"
+}

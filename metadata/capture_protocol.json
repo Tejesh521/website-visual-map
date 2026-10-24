@@ -1,0 +1,12 @@
+{
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "timeout_ms": 12000.0,
+  "settle_ms": 1000,
+  "retries": 1,
+  "input_sha256": "13d0f1649b72b988b1364ad19d92e033788c30be5b8dad495fd386574ea78030",
+  "browser": "chromium",
+  "https_fallback": "http after failed origin"
+}

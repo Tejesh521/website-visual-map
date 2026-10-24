@@ -1,0 +1,37 @@
+{
+  "quality_sha256": "9eab883168d97869fec4b03abb402ce8c765c46253db9e3e89e446462d5d49ea",
+  "model": "ViT-B-32",
+  "pretrained": "laion2b_s34b_b79k",
+  "preprocess": "OpenCLIP default resize + center crop; RGB; L2 normalization",
+  "device": "cpu",
+  "weight_revision": "1a25a446712ba5ee05982a381eed697ef9b435cf",
+  "weight_sha256": "ac4f8c4b88af6d963118cbf40ad93176d092abbedfcb752601ae1866352656e6",
+  "encoder_versions": {
+    "torch": "2.8.0",
+    "torchvision": "0.23.0",
+    "open_clip_torch": "3.2.0",
+    "Pillow": "11.3.0"
+  },
+  "dimensions": 512,
+  "count": 3564,
+  "versions": {
+    "python": "3.11.17 (main, Oct 21 2026, 17:46:23) [Clang 23.1.3 ]",
+    "platform": "macOS-15.6.1-arm64-arm-64bit",
+    "seed": 42,
+    "packages": {
+      "numpy": "2.2.6",
+      "pandas": "2.3.3",
+      "Pillow": "11.3.0",
+      "playwright": "1.55.0",
+      "torch": "2.8.0",
+      "torchvision": "0.23.0",
+      "open_clip_torch": "3.2.0",
+      "scikit-learn": "1.7.2",
+      "umap-learn": "0.5.9.post2",
+      "matplotlib": "3.10.7",
+      "reportlab": "4.4.4"
+    }
+  },
+  "array_sha256": "093783a3968d24391a7e639c7fcbc801c8085aa22a8e344b37ded3edd055fcf3",
+  "manifest_sha256": "72d698b5608b5fbb12347190a86d2f25e291f433218c2ce2294b474c51df6535"
+}

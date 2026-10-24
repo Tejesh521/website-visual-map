@@ -1,0 +1,6 @@
+{
+  "metadata/quality.csv": "9eab883168d97869fec4b03abb402ce8c765c46253db9e3e89e446462d5d49ea",
+  "embeddings/embedding_manifest.csv": "72d698b5608b5fbb12347190a86d2f25e291f433218c2ce2294b474c51df6535",
+  "embeddings/embeddings.npy": "093783a3968d24391a7e639c7fcbc801c8085aa22a8e344b37ded3edd055fcf3",
+  "embeddings/model.json": "97c8d7b82b6159b72a4ee803fc01754e8c915c5ada1b1d343e3760ed10d70f3c"
+}

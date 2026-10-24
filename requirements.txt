@@ -1,0 +1,14 @@
+numpy==2.2.6
+pandas==2.3.3
+Pillow==11.3.0
+playwright==1.55.0
+torch==2.8.0
+torchvision==0.23.0
+open_clip_torch==3.2.0
+scikit-learn==1.7.2
+umap-learn==0.5.9.post2
+matplotlib==3.10.7
+reportlab==4.4.4
+pytest==8.4.2
+pypdf==6.1.2
+filelock==4.2.4

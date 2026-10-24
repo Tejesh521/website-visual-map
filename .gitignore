@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+screenshots/*
+!screenshots/.gitkeep
+embeddings/*.npy
+metadata/*.lock
+.cache/
+tmp/
+reports/*.tar.gz
+metadata/*.log

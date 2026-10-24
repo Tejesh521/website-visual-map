@@ -1,0 +1,20 @@
+{
+  "lookalikes": {
+    "text": "Visual review confirms that 5movierulz.solutions and 5movierulz.ventures display the same dark MovieRulz header, navigation, orange panel and movie-poster grid. Their PNG SHA-256 hashes are identical and cosine is 1.000 (rounded). This establishes an exact captured duplicate, not common ownership.",
+    "site_ids": [
+      "4920407c6143836e",
+      "0e5c8a1b3f36f444"
+    ],
+    "reviewer": "Codex visual review"
+  },
+  "embedding_failure": {
+    "text": "0912sim.ir and adityanewsnetwork.com have cosine 0.915, but both captures show 403 Forbidden pages: similarity measures an error template, not intended website identity. Separately, CLIP labels the logo-only 000h555.com splash as for_sale although no sale offer is visible. The label set has no splash/loading class. These cases limit semantic conclusions from image vectors and their text-prompt scores.",
+    "site_ids": [
+      "4f7438499ad0d367",
+      "5168217d9ada18a1",
+      "20709f2494f657a9"
+    ],
+    "reviewer": "Codex visual review"
+  },
+  "review_disclosure": "These screenshot observations were made by a model assistant inspecting rendered images; they are not independent human ground truth."
+}

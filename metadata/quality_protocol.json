@@ -1,0 +1,9 @@
+{
+  "capture_manifest_sha256": "af0ba02abcd7e11886c3cb92a99f04b249fe97a88d360bfe9eb1ca2d42a3472a",
+  "minimum_std": 3,
+  "minimum_entropy": 0.3,
+  "minimum_size": [
+    640,
+    400
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "reviewer": "Codex assistant (not independent human)",
+  "protocol": "Blind visual review of four numbered contact sheets, with originals inspected for ambiguous cases. Dominant visible outcome; small secondary cookie banners do not supersede content/login. Uncertain cases are excluded from agreement.",
+  "items": [
+    {
+      "audit_row": 1,
+      "label": "content",
+      "notes": "Game-branded splash/landing view; no visible login or domain-sale offer.",
+      "site_id": "01b4700ca9bf9b47",
+      "domain": "veergame4.com"
+    },
+    {
+      "audit_row": 2,
+      "label": "error",
+      "notes": "Blocked access page without a visible verification challenge.",
+      "site_id": "068c034de1ea188f",
+      "domain": "gasbos.link"
+    },
+    {
+      "audit_row": 3,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "06e53b5863e6e52a",
+      "domain": "ambths.click"
+    },
+    {
+      "audit_row": 4,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "0ac2c0cd54798811",
+      "domain": "levis.com.tr"
+    },
+    {
+      "audit_row": 5,
+      "label": "captcha",
+      "notes": "Security-verification widget visible.",
+      "site_id": "0bf354992a8357f3",
+      "domain": "decathlon.pt"
+    },
+    {
+      "audit_row": 6,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "0d14fe583659bc6a",
+      "domain": "pusatfilm.id"
+    },
+    {
+      "audit_row": 7,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "112e3ccfb482033e",
+      "domain": "cantarola.com"
+    },
+    {
+      "audit_row": 8,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "11d57716b129d7cf",
+      "domain": "ixdzs8.com"
+    },
+    {
+      "audit_row": 9,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "125aeddc6a9deeeb",
+      "domain": "grajteraz.pl"
+    },
+    {
+      "audit_row": 10,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "1277020e391c9c4f",
+      "domain": "canariamshop.com"
+    },
+    {
+      "audit_row": 11,
+      "label": "error",
+      "notes": "Blocked access page without a visible verification challenge.",
+      "site_id": "19937b376db3c1c0",
+      "domain": "mypcards.com"
+    },
+    {
+      "audit_row": 12,
+      "label": "content",
+      "notes": "Minimal informational landing page; no visible sale offer.",
+      "site_id": "1f75bd38a6006788",
+      "domain": "infoimmobile.com"
+    },
+    {
+      "audit_row": 13,
+      "label": "login",
+      "notes": "Username/password sign-in form.",
+      "site_id": "1fe0bb390196b2bb",
+      "domain": "mercantilbanco.com"
+    },
+    {
+      "audit_row": 14,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "20c9e9509f8346a2",
+      "domain": "fusskleidung.de"
+    },
+    {
+      "audit_row": 15,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "217acf3f5417c41b",
+      "domain": "voltagebids.com"
+    },
+    {
+      "audit_row": 16,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "21e26b10c0156949",
+      "domain": "rss.app"
+    },
+    {
+      "audit_row": 17,
+      "label": "login",
+      "notes": "Email/password login form.",
+      "site_id": "2900b211a91ce680",
+      "domain": "yuksetorwa.com"
+    },
+    {
+      "audit_row": 18,
+      "label": "cookie",
+      "notes": "Cookie consent panel overlays the storefront.",
+      "site_id": "2fa33bd65fdb387e",
+      "domain": "koihappiness.com"
+    },
+    {
+      "audit_row": 19,
+      "label": "error",
+      "notes": "Access restricted error view.",
+      "site_id": "31df1b0147004176",
+      "domain": "35c35c.com"
+    },
+    {
+      "audit_row": 20,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "31e03b0e9ed75e22",
+      "domain": "novita.com"
+    },
+    {
+      "audit_row": 21,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "33f87bd1fe59e4f9",
+      "domain": "montevideo.com.uy"
+    },
+    {
+      "audit_row": 22,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "395ca4be0b2ff1d0",
+      "domain": "authenticpacks.com"
+    },
+    {
+      "audit_row": 23,
+      "label": "login",
+      "notes": "Email/password login form.",
+      "site_id": "3b25acec76c41aff",
+      "domain": "fakturoid.cz"
+    },
+    {
+      "audit_row": 24,
+      "label": "error",
+      "notes": "Request could not be completed; error diagnostic page.",
+      "site_id": "3ca5b292a0d74992",
+      "domain": "isacombank.com.vn"
+    },
+    {
+      "audit_row": 25,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "4fbd86b841a08e0b",
+      "domain": "taptap.cn"
+    },
+    {
+      "audit_row": 26,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "5148f6f89fa614e0",
+      "domain": "grupomedcof.com.br"
+    },
+    {
+      "audit_row": 27,
+      "label": "error",
+      "notes": "Service unavailable in the detected country; geographic access error.",
+      "site_id": "59e5404fed0366dc",
+      "domain": "sefon.pro"
+    },
+    {
+      "audit_row": 28,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "5a1b5cc22f209fbb",
+      "domain": "gdpr.eu"
+    },
+    {
+      "audit_row": 29,
+      "label": "login",
+      "notes": "Login form dominates; a narrow cookie bar is also visible.",
+      "site_id": "5a6a5ecd137a5e82",
+      "domain": "culturegrams.com"
+    },
+    {
+      "audit_row": 30,
+      "label": "login",
+      "notes": "Email magic-link form for returning to a loan enquiry.",
+      "site_id": "5acfd1bb438413da",
+      "domain": "everythingfinancial.co.uk"
+    },
+    {
+      "audit_row": 31,
+      "label": "content",
+      "notes": "Storefront remains dominant; narrow cookie banner is secondary.",
+      "site_id": "5d9d994aaab3656e",
+      "domain": "dekorativni-omitka.cz"
+    },
+    {
+      "audit_row": 32,
+      "label": "captcha",
+      "notes": "Security-verification widget visible.",
+      "site_id": "5f205176476d00f2",
+      "domain": "rajabotaktengah.com"
+    },
+    {
+      "audit_row": 33,
+      "label": "content",
+      "notes": "Store content with an order-confirmation information popup; not login or cookie consent.",
+      "site_id": "60f17dffbbc00ccd",
+      "domain": "qasimstationers.pk"
+    },
+    {
+      "audit_row": 34,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "631b1bb4aa57997a",
+      "domain": "isuzu-tis.com"
+    },
+    {
+      "audit_row": 35,
+      "label": "error",
+      "notes": "Access temporarily restricted.",
+      "site_id": "63f35bb61ef45809",
+      "domain": "immowelt.de"
+    },
+    {
+      "audit_row": 36,
+      "label": "error",
+      "notes": "Country-based access restriction message.",
+      "site_id": "711acd019aca41dd",
+      "domain": "888bets.co.mz"
+    },
+    {
+      "audit_row": 37,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "743c8ba2243d209b",
+      "domain": "damconuong.uno"
+    },
+    {
+      "audit_row": 38,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "7448d21ca272afb3",
+      "domain": "thaiorc.com"
+    },
+    {
+      "audit_row": 39,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "80bb56b38d539a9f",
+      "domain": "gamebanana.com"
+    },
+    {
+      "audit_row": 40,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "84e520eec2996e67",
+      "domain": "isportsurge.ws"
+    },
+    {
+      "audit_row": 41,
+      "label": "error",
+      "notes": "Access denied diagnostic page.",
+      "site_id": "85742ec5b54cbbff",
+      "domain": "logammulia.com"
+    },
+    {
+      "audit_row": 42,
+      "label": "error",
+      "notes": "403 Forbidden error page.",
+      "site_id": "86bdf728a7fdf8c1",
+      "domain": "mytehranmusic.com"
+    },
+    {
+      "audit_row": 43,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "874cf988e52e6861",
+      "domain": "xmasti.gg"
+    },
+    {
+      "audit_row": 44,
+      "label": "captcha",
+      "notes": "Security-verification widget visible.",
+      "site_id": "8f7056edf48bf503",
+      "domain": "instalker.org"
+    },
+    {
+      "audit_row": 45,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "90019749157706a6",
+      "domain": "steamcharts.com"
+    },
+    {
+      "audit_row": 46,
+      "label": "content",
+      "notes": "Chat prompt landing view; sign-in links are secondary, with no dominant login form.",
+      "site_id": "930fa7834b9ce6c8",
+      "domain": "gemini.google"
+    },
+    {
+      "audit_row": 47,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "952ea757320eaf88",
+      "domain": "shulefiti.co.ke"
+    },
+    {
+      "audit_row": 48,
+      "label": "uncertain",
+      "notes": "Only a large warning/exclamation icon is visible; outcome cannot be established reliably.",
+      "site_id": "96695a48bab964c6",
+      "domain": "vix.com"
+    },
+    {
+      "audit_row": 49,
+      "label": "login",
+      "notes": "Account sign-in form.",
+      "site_id": "981a34bf9ca70ef8",
+      "domain": "docomo.ne.jp"
+    },
+    {
+      "audit_row": 50,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "a030994bdfa52c3c",
+      "domain": "spoiler.jp"
+    },
+    {
+      "audit_row": 51,
+      "label": "cookie",
+      "notes": "Centered consent modal dims and blocks the underlying news page.",
+      "site_id": "a59bea9eba183e50",
+      "domain": "odatv.com"
+    },
+    {
+      "audit_row": 52,
+      "label": "error",
+      "notes": "Blocked access page.",
+      "site_id": "a654ee000f595e8a",
+      "domain": "pttavm.com"
+    },
+    {
+      "audit_row": 53,
+      "label": "error",
+      "notes": "Access denied diagnostic page.",
+      "site_id": "ac8aaa937e39e478",
+      "domain": "cecile.co.jp"
+    },
+    {
+      "audit_row": 54,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "b10e1397dc4dceea",
+      "domain": "filmyzillamovie.com"
+    },
+    {
+      "audit_row": 55,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "b434b719ca87e744",
+      "domain": "prabhatkhabar.com"
+    },
+    {
+      "audit_row": 56,
+      "label": "error",
+      "notes": "Blocked access page.",
+      "site_id": "b66215125f86aca1",
+      "domain": "japansdates.com"
+    },
+    {
+      "audit_row": 57,
+      "label": "content",
+      "notes": "Homepage remains dominant; small privacy control panel at lower left.",
+      "site_id": "ba3a9f82a3ea32d0",
+      "domain": "superchips.co.uk"
+    },
+    {
+      "audit_row": 58,
+      "label": "content",
+      "notes": "Homepage remains dominant; thin cookie bar at bottom.",
+      "site_id": "bf3d9c3aff0da27b",
+      "domain": "star-clicks.com"
+    },
+    {
+      "audit_row": 59,
+      "label": "captcha",
+      "notes": "Security-verification widget visible.",
+      "site_id": "c0ab9b30244af65a",
+      "domain": "wfl-88.net"
+    },
+    {
+      "audit_row": 60,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "c2733201eab83771",
+      "domain": "epoznan.pl"
+    },
+    {
+      "audit_row": 61,
+      "label": "cookie",
+      "notes": "Prominent cookie/privacy consent panel over the page.",
+      "site_id": "c72e14b3b5f19319",
+      "domain": "tjk.org"
+    },
+    {
+      "audit_row": 62,
+      "label": "error",
+      "notes": "Access restricted error view.",
+      "site_id": "ca63c31fd9dece72",
+      "domain": "55vv3322.com"
+    },
+    {
+      "audit_row": 63,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "cb7cc00f3e212fff",
+      "domain": "mrq.com"
+    },
+    {
+      "audit_row": 64,
+      "label": "content",
+      "notes": "Partially loaded site with navigation and promotional banner; no visible blocking category.",
+      "site_id": "cb95d2d1490a249c",
+      "domain": "63zrtp.com"
+    },
+    {
+      "audit_row": 65,
+      "label": "error",
+      "notes": "Access temporarily restricted.",
+      "site_id": "cd485df4c73527a3",
+      "domain": "maisonsdumonde.com"
+    },
+    {
+      "audit_row": 66,
+      "label": "error",
+      "notes": "Access denied diagnostic page.",
+      "site_id": "d4b2795afecace12",
+      "domain": "yanmar.com"
+    },
+    {
+      "audit_row": 67,
+      "label": "captcha",
+      "notes": "Security verification message/spinner.",
+      "site_id": "d761d322a2f89a6e",
+      "domain": "panorama.com.al"
+    },
+    {
+      "audit_row": 68,
+      "label": "error",
+      "notes": "Blocked access page.",
+      "site_id": "d7a9b1931ac8c85b",
+      "domain": "smhi7432.com"
+    },
+    {
+      "audit_row": 69,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "da39dea368c3bf41",
+      "domain": "burjclothing.com.br"
+    },
+    {
+      "audit_row": 70,
+      "label": "login",
+      "notes": "Username/password account login.",
+      "site_id": "dc9c06610736689a",
+      "domain": "tiny.com.br"
+    },
+    {
+      "audit_row": 71,
+      "label": "captcha",
+      "notes": "Security verification message/spinner.",
+      "site_id": "dfce0608730de414",
+      "domain": "supernovahobbystore.com.br"
+    },
+    {
+      "audit_row": 72,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "e74467dd87360df4",
+      "domain": "rtprisingprima77.com"
+    },
+    {
+      "audit_row": 73,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "e8f5de40d37daf87",
+      "domain": "quizworld.de"
+    },
+    {
+      "audit_row": 74,
+      "label": "login",
+      "notes": "Email/password sign-in form.",
+      "site_id": "ebfd2110648e2e96",
+      "domain": "recargasamerica.com"
+    },
+    {
+      "audit_row": 75,
+      "label": "uncertain",
+      "notes": "Non-English address/destination notice; dominant outcome is ambiguous within the fixed label set.",
+      "site_id": "ecd7c68ee417a46b",
+      "domain": "wftoon227.com"
+    },
+    {
+      "audit_row": 76,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "f0ea282d53ecdbc1",
+      "domain": "gatevidyalay.com"
+    },
+    {
+      "audit_row": 77,
+      "label": "error",
+      "notes": "Web Page Blocked error message.",
+      "site_id": "f1a56a65da3c95fe",
+      "domain": "bpdbali.co.id"
+    },
+    {
+      "audit_row": 78,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "f244edcf6e6ac2db",
+      "domain": "anikototv.to"
+    },
+    {
+      "audit_row": 79,
+      "label": "content",
+      "notes": "Partially loaded storefront; header/navigation visible without a blocking message.",
+      "site_id": "f48155ef2f7289b7",
+      "domain": "cadetailing.co.uk"
+    },
+    {
+      "audit_row": 80,
+      "label": "content",
+      "notes": "Visible homepage/content; no dominant blocking panel.",
+      "site_id": "f58697f879d30aea",
+      "domain": "obemdito.com.br"
+    }
+  ],
+  "audit_sample_sha256": "45bba972d3a1f223eee8fcd7a5994d89528eb1dfbf517796160d8490e06c6c5b"
+}

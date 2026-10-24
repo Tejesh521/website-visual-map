@@ -1,0 +1,14 @@
+{
+  "rows": 5000,
+  "expected_rows": 5000,
+  "matches_target": true,
+  "input_sha256": "bfe8da52a23a4add1bcaa8216a730f5e4a5a215690027d470f0bf334d5d9a1eb",
+  "validated_sha256": "13d0f1649b72b988b1364ad19d92e033788c30be5b8dad495fd386574ea78030",
+  "tiers": {
+    "top 10k": 1000,
+    "10k-50k": 1000,
+    "50k-100k": 1000,
+    "100k-500k": 1000,
+    "500k-1M": 1000
+  }
+}

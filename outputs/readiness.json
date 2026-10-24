@@ -1,0 +1,8 @@
+{
+  "ready": true,
+  "input": 5000,
+  "attempted": 5000,
+  "usable_embeddings": 3564,
+  "manual_audit_complete": true,
+  "qualitative_evidence_complete": true
+}
